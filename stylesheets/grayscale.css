@@ -265,6 +265,11 @@ a:focus {
     padding-top: 100px;
 }
 
+
+.section-title{
+    padding-top: 20px;
+}
+
 .portfolio-section {
     width: 100%;
     padding: 50px 0;
@@ -289,6 +294,11 @@ a:focus {
     -o-background-size: cover;
     opacity: 50;
 
+}
+
+.img{
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .services-section{
